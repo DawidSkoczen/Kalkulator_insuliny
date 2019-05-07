@@ -16,5 +16,5 @@ a little bit jokingly, "product owner" of this application.
 
 
 ## Setup
-To run this application you must open runnable jar file "Kalkulator_Insuliny" in one folder with two other files - "KOT.jpg" and "tabela.xls"
+To run this application you must open runnable jar file "Kalkulator_Insuliny" in one folder with two other files - "KOT.jpg" and "tabela.xls". You also must have installed the Java Runtime Enviromenrt(JRE) on your computer.
 
